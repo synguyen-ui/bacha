@@ -1,0 +1,450 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+header .container{
+    padding: 72px 32px;
+}
+h4.tieude-4 {
+    font-weight: 700;
+    margin-top: 15px;
+}
+
+.congviec {
+    font-size: 16px;
+    margin-top: 8px;
+}
+
+.congty {
+    font-size: 20px;
+}
+
+.kinhnghiem {
+    margin-right: 108px;
+}
+
+.school {
+    margin-left: 110px;
+    font-size: 21px;
+}
+
+.thoigian {
+    font-size: 20px;
+    font-style: italic;
+    margin: 18px 0px;
+    font-weight: 700;
+    margin-left: 110px;
+}
+
+h3.tieude-indus {
+    font-weight: 700;
+    color: #8f8f8f;
+}
+
+i.i-contact {
+    padding: 9px;
+    font-size: 20px;
+}
+
+i.i-dow {
+    padding: 8px;
+    font-size: 20px;
+}
+
+button.contact {
+    height: 50px;
+    width: 176px;
+    font-weight: 700;
+    font-size: 16px;
+    border: 2px solid #fca576;
+    background-color: #0000;
+    color: tomato;
+}
+
+button.dowload {
+    margin-right: 25px;
+    margin-top: 42px;
+    width: 203px;
+    height: 50px;
+    font-weight: 700;
+    font-size: 16px;
+    border: 2px solid #fca576;
+    background-color: #0000;
+    color: tomato;
+}
+
+.col-2 {
+    text-align: right;
+}
+
+.col {margin-bottom: 24px;}
+
+
+.info {
+    margin: auto;
+    text-align: left;
+}
+
+.chiacot {
+    display: flex;
+}
+
+.ten {
+    padding: 15px;
+}
+
+.job {
+    font-size: 21px;
+}
+
+.cot-1 {
+    width: 379px;
+    height: 744px;
+    min-height: 500px;
+    text-align: center;
+    color: white;
+    background-color: #fca576;
+    z-index: 999;
+    top: 0;
+    left: 0;
+    position: fixed;
+}
+
+.ten {
+    font-weight: 700;
+    font-size: 23px;
+}
+
+img.anh-1 {
+    width: 154px;
+    margin-top: 24px;
+}
+button.nut-menu {
+    animation: none;
+    width: 223px;
+    padding: 10px;
+    color: white;
+    margin-top: 12px;
+    border: 3px solid white;
+    border-radius: 6px;
+    background-color: #fff0;
+    font-weight: 700;
+    cursor: pointer;
+}
+.cot-2 {
+    text-align: center;
+    color: #fca576;
+    width: 1479px;
+    padding: 24px;
+}
+
+h3.tieude-3 {
+    font-weight: 700;
+    color: #8f8f8f;
+}
+h1.tieude-1 {
+    font-weight: 700;
+    font-size: 54px;
+    padding: 3px;
+}
+p.mota-about {
+    margin: 22px 412px;
+}
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+i.icon-resume {
+    font-size: 42px;
+    color: #000;
+    border: 2px solid #000;
+    width: 80px;
+    height: 80px;
+    text-align: center;
+    line-height: 80px;
+}
+.industry {
+    text-align: right;
+    width: 280px;
+    margin: auto;
+}
+
+i.icon-about {
+    font-size: 38px;
+    width: 80px;
+    height: 80px;
+    text-align: center;
+    line-height: 80px;
+    border: 2px solid #fca576;
+    border-radius: 50px;
+}
+i.icon-mbgiay {
+    font-size: 39px;
+    border: 2px solid #fca576;
+    width: 80px;
+    height: 80px;
+    line-height: 80px;
+    border-radius: 50%;
+    text-align: center;
+}
+button.nut-menu:hover {
+    background-color: white;
+    color: #fca576; 
+}
+button.dowload:hover {
+    background-color: #fca576 ;
+    color: white;
+}
+button.contact:hover {
+    background-color: #fca576 ;
+    color: white;
+}
+.kinhnghiem:hover .thoigian {
+    color: #FCA576;
+    cursor: pointer;
+}
+
+.thoigian:hover {
+    cursor: pointer;
+    color: tomato;
+}
+*{
+    margin: 0;
+    padding: 0;
+
+}
+
+.lienhe {
+    color: #ffffffbf;
+}
+
+p.hanoi {
+    font-size: 14px;
+}
+
+.diachi {
+    margin-top: 32px;
+}
+
+.contact2 {
+    background-color: #434343;
+}
+
+input {
+    background-color: #0000;
+    width: 100%;
+    padding: 12px;
+    margin-top: 31px;
+    font-size: 13px;
+    border: 1px solid rgb(255 255 255 / 62%);
+}
+*{
+    font-family: 'Roboto', sans-serif;
+}
+
+input.message {min-height: 144px;}
+
+.mota-por {
+    font-size: 24px;
+    margin-top: 46px;
+    color: #9ac2f3;
+    cursor: pointer;
+}
+
+p.ten {
+    font-size: 22px;
+}
+
+p.noidung2 {
+    margin-top: -50px;
+    margin-bottom: 95px;
+    font-size: 14px;
+}
+
+
+
+
+.khung2{
+    width: 100px;
+    height: 40px;
+    position: relative;
+    margin-left: 90px;
+    margin-top: 140px;
+}
+.khung{
+    width: 100px;
+    height: 40px;
+    position: relative;
+    margin-left: 90px;
+    margin-top: 140px;
+}
+.tieude{
+    font-size: 22px;
+    margin-bottom: 25px;
+    width: 1212px;
+    display: flex;
+    margin: auto;
+}
+.chialayer{
+    width: 288px;
+    height: 225px;
+    position: relative;
+    overflow: hidden;
+    border-radius: 10px;
+    margin-top: 50px;
+}
+.layer1{
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 0;
+    transition: 0.4s;
+}
+.layer2{
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 1;
+    transition: 0.4s;
+    background-color: rgb(0, 0, 0);
+    opacity: 10%;
+}
+.layer3{
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 2;
+    color: white;
+    text-align: center;
+    cursor: pointer;
+}
+img.anh{
+    width: 100%;
+    height: 100%;
+}
+.gachngang{
+    font-weight: 700;
+}
+
+p.gachngang {
+    margin-top: 25px;
+}
+.noidung{
+    margin-top: 10px;
+    font-size: 14px;
+    width: 197px;
+    margin-left: 45px;
+}
+
+.chialayer:hover .layer1{
+    transform: scale(1.1);
+
+}
+.chialayer:hover .layer2{
+    opacity: 50%;    
+}
+.motkhoi{
+    width: 686px;
+    display: flex;
+    justify-content: space-between;
+    margin: auto;
+    flex-wrap: wrap;
+}
+
+i.icon-end {
+    font-size: 24px;
+}
+button.end {
+    margin-top: 15px;
+    font-size: 12px;
+    color: #ffffffbf;
+    background-color: #00000069;
+    padding: 6px;
+    border: none;
+    border-radius: 5px;
+}
+.RESUME {
+    padding: 100px;
+}
+.portfolio {
+    padding: 50px;
+    background-color: #f3f3f336;
+}
+ul.nav i {
+    width: 40px;
+    height: 40px;
+    border: 2px solid;
+    border-radius: 3px;
+    line-height: 40px;
+    margin: 4px;
+    cursor: pointer;
+}
+
+
+    
+    ul.carousel {
+        width: 900px;
+        position: relative;
+        margin: auto;
+        height: 350px;
+    }
+    
+    li.slide {
+        list-style: none;
+        position: absolute;
+        top: 0;
+        left: 0;
+        opacity: 0;
+        transition: 0.4s;
+    }
+    
+    a.link {
+        text-decoration: none;
+        color: #1abc9c;
+    }
+    
+    img.avt {
+        width: 174px;
+        border-radius: 50%;
+    }
+    
+    p.cmt {
+        font-size: 21px;
+        color: #9d6565;
+        height: 98px;
+    }
+    
+    hr {
+        width: 40px;
+        border: 2px solid;
+        margin: auto;
+        margin-bottom: 48px;
+        border-radius: 6px;
+    }
+    
+    
+    .khoi-carousel {
+        font-family: Segoe UI;
+        text-align: center;
+        height: 80%;
+        width: 100%;
+        margin-left: 181px;
+        margin-top: 43px;
+        margin-bottom: 40px;
+    }
+
+ul.nav {
+    margin-top: 57px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+    li.slide.active {
+        opacity: 1;
+    }
